@@ -33,3 +33,11 @@
 ### 查看更新日志：
 
 [`update_log.md`](update_log.md)
+
+### 常用的快捷方式
+F3 nerdTree
+gt 切换tab
+F9 方法查看
+vim .vimrc 
+set nocul # 将光标的行显示取消
+set nocuc # 将光标的列显示取消
